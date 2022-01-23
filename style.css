@@ -1,0 +1,33 @@
+body {
+    background: grey;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #ffc107;
+    width: 600px;
+}
+
+th {
+    text-align: center;
+    padding: 10px;
+}
+td {
+    text-align: left;
+    padding: 10px;
+}
+
+thead {
+    background: #ffc107;
+    color: black;
+     border: 1px solid #ffc107;;
+}
+
+.orange {
+background: #e5ae30
+}
+
+tbody {
+    background: #382c6e;
+    color: white;
+}
